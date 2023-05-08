@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Bogdan Vera # your name (or website title) here
 logo: "/images/boggtree.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Programmer/Designer/Musician
   <br><br>
-  Second description 
+  Welcome to my portfolio page! Hope you enjoy all the things I'm interested in. I show off a lot of my work on my Twitter and sometimes YouTube.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/bogdan-vera-83781521/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
