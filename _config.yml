@@ -6,12 +6,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   Welcome to my portfolio page! Hope you enjoy all the things I'm interested in. I show off a lot of my work informally on my Twitter and sometimes YouTube.
   <br>
   Since 2015, my job has been designing and implementing creative toolset features for Media Molecule's game Dreams. Over the years I've mainly worked on Dreams' music and audio toolset,
-  which is effectively an audio workstation inside a PS4 game. I've always been interested in audio and music, but I also have a fascination with game design, generative systems and many other things.
+  which is effectively an audio workstation inside a PS4 game. 
+  <br>
+  I've always been interested in audio and music, but I also have a fascination with game design, generative systems and many other things.
   I'm happy to discuss any of these topics over DM or e-mail.
   <br><br>
   <a href="https://www.linkedin.com/in/bogdan-vera-83781521/">View My LinkedIn Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
+  plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
