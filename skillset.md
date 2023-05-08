@@ -20,7 +20,7 @@ Max/MSP, PureData <br>
 TidalCycles and SuperCollider <br>
 Wwise  <br>
 
-### Graphics
+### Graphics/Visuals/Creative Coding
 P5/Processing <br>
 Shadertoy <br>
 Hydra <br>
