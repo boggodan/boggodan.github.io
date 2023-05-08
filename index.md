@@ -7,6 +7,9 @@
 [Dreams](https://www.nme.com/features/gaming-features/how-the-creation-tools-in-dreams-have-forged-an-entire-music-scene-3183701)
 <img src="images/DreamsNME.jpg?raw=true"/>
 
+[My Skills and Interests](/list)
+<img src="images/particles4.png?raw=true"/>
+
 ---
 
 ### Things I Do or Enjoy
